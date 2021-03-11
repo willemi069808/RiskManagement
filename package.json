@@ -10,7 +10,8 @@
         "@sap/xsenv": "^3.1.0",
         "@sap/xssec": "^3.1.2",
         "express": "^4",
-        "hdb": "^0.18.3"
+        "hdb": "^0.18.3",
+        "passport": "^0.4.1"
     },
     "devDependencies": {
         "@sap/ux-specification": "^1.84.5",
